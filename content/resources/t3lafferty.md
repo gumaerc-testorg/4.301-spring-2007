@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-301-introduction-to-the-visual-arts-spring-2007/e0d96014deedf4682f622c0116d55012_T3lafferty.jpg
+file: /media/courses/4-301-introduction-to-the-visual-arts-spring-2007/e0d96014deedf4682f622c0116d55012_T3lafferty.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: thumbs
+parent_type: CourseSection
 resourcetype: Image
 title: T3lafferty.jpg
 uid: e0d96014-deed-f468-2f62-2c0116d55012

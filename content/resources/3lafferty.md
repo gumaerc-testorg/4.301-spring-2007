@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: David Lafferty Body Extension project "Untitled"
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-301-introduction-to-the-visual-arts-spring-2007/d17b2c53d8ae2ee5e5e17470ac1c1c3c_3lafferty.jpg
+file: /media/courses/4-301-introduction-to-the-visual-arts-spring-2007/d17b2c53d8ae2ee5e5e17470ac1c1c3c_3lafferty.jpg
 file_type: image/jpeg
 image_metadata:
   caption: David Lafferty Body Extension project "Untitled"
   credit: Image courtesy of David Lafferty
   image-alt: David Lafferty Body Extension project "Untitled"
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Student work 2004
+parent_type: CourseSection
 resourcetype: Image
 title: 3lafferty.jpg
 uid: d17b2c53-d8ae-2ee5-e5e1-7470ac1c1c3c

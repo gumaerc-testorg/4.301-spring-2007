@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: Devon Roshan Made Public Project.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-301-introduction-to-the-visual-arts-spring-2007/933abd2eabf5d3b2b7dee32bd489b382_DevonRoshanMadePublicProject.jpeg
+file: /media/courses/4-301-introduction-to-the-visual-arts-spring-2007/933abd2eabf5d3b2b7dee32bd489b382_DevonRoshanMadePublicProject.jpeg
 file_type: image/jpeg
 image_metadata:
   caption: Devon Roshan Made Public Project.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Devon Roshan Made Public Project.
+learning_resource_types:
+- Projects
+ocw_type: OCWImage
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: Devon Roshan Made Public Project.jpeg
 uid: 933abd2e-abf5-d3b2-b7de-e32bd489b382

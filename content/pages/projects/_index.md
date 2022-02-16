@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 8c77198b-5306-43e0-e057-28b019b4e522
 ---
@@ -25,7 +28,7 @@ Student Work 2005
 -----------------
 
 The work of the students from the class is presented below, organized by media type. All work is used with permission.
-{{< image-gallery id="8c77198b-5306-43e0-e057-28b019b4e522_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-301-introduction-to-the-visual-arts-spring-2007/" >}}
+{{< image-gallery id="8c77198b-5306-43e0-e057-28b019b4e522_nanogallery2" baseUrl="/courses/4-301-introduction-to-the-visual-arts-spring-2007/" >}}
 {{< image-gallery-item href="1cc87046b728892dbc1b98dbb5c3e80c_CathleneAllardBodyExtensionProject.jpeg" data-ngdesc="Cathlene Allard Body Extension Project." text="Cathlene Allard Body Extension Project." >}}
 {{< image-gallery-item href="843b6a14a14218f2a486984ef2e34165_CathleneAllardMadePublicProject.jpeg" data-ngdesc="Cathlene Allard Made Public Project." text="Cathlene Allard Made Public Project." >}}
 {{< image-gallery-item href="c9126c394572aa80cee385451705747e_PaulBoudreauBodyExtensionProject.jpeg" data-ngdesc="Paul Boudreau Body Extension Project." text="Paul Boudreau Body Extension Project." >}}

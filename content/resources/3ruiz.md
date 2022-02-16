@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: Joaquin Ruiz Body Extension project "Head Shot"
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-301-introduction-to-the-visual-arts-spring-2007/21ce0574f060a0a478ec7f3479f04cb8_3ruiz.jpg
+file: /media/courses/4-301-introduction-to-the-visual-arts-spring-2007/21ce0574f060a0a478ec7f3479f04cb8_3ruiz.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Joaquin Ruiz Body Extension project "Head Shot"
   credit: Image courtesy of Joaquin Ruiz
   image-alt: Joaquin Ruiz Body Extension project "Head Shot"
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Student work 2004
+parent_type: CourseSection
 resourcetype: Image
 title: 3ruiz.jpg
 uid: 21ce0574-f060-a0a4-78ec-7f3479f04cb8

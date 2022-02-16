@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-301-introduction-to-the-visual-arts-spring-2007/9d5463cb6ddadfd6a3edb1cfb76e0d9e_2ShaunaJinShapingTime.jpg
+file: /media/courses/4-301-introduction-to-the-visual-arts-spring-2007/9d5463cb6ddadfd6a3edb1cfb76e0d9e_2ShaunaJinShapingTime.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: thumbs
+parent_type: CourseSection
 resourcetype: Image
 title: 2ShaunaJinShapingTime.jpg
 uid: 9d5463cb-6dda-dfd6-a3ed-b1cfb76e0d9e

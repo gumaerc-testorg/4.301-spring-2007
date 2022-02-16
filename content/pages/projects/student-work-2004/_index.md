@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 8c77198b-5306-43e0-e057-28b019b4e522
 title: Student work 2004
 uid: d8c0f18b-d364-943c-ca0d-62602a9d06f9
@@ -10,7 +14,7 @@ Student work 2004
 -----------------
 
 The work of the students from the class is presented below, organized by media type. All work is used with permission.
-{{< image-gallery id="d8c0f18b-d364-943c-ca0d-62602a9d06f9_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-301-introduction-to-the-visual-arts-spring-2007/" >}}
+{{< image-gallery id="d8c0f18b-d364-943c-ca0d-62602a9d06f9_nanogallery2" baseUrl="/courses/4-301-introduction-to-the-visual-arts-spring-2007/" >}}
 {{< image-gallery-item href="746eb445eac71a4e374da16d0ffd1dcd_1akeju.jpg" data-ngdesc="Usman Akeju Made Public project The Picnic" text="Usman Akeju Made Public project The Picnic" >}}
 {{< image-gallery-item href="e48a6653ebac3234f04a6b5f186c731b_1dahya.jpg" data-ngdesc="Al Dahya Made Public project Upon a Blank Slate" text="Al Dahya Made Public project Upon a Blank Slate" >}}
 {{< image-gallery-item href="1f477340195880b34ecc94cfb5454255_1eng.jpg" data-ngdesc="Christy Eng Made Public project Consume or Perish or Recycle and Flourish" text="Christy Eng Made Public project Consume or Perish or Recycle and Flourish" >}}

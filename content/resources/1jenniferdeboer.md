@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains an example of a completed student project.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-301-introduction-to-the-visual-arts-spring-2007/d0e0b404e10c5f47fd9f4d5610468941_1jenniferdeboer.pdf
+file: /media/courses/4-301-introduction-to-the-visual-arts-spring-2007/d0e0b404e10c5f47fd9f4d5610468941_1jenniferdeboer.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Student work 2004
+parent_type: CourseSection
 resourcetype: Document
 title: 1jenniferdeboer.pdf
 uid: d0e0b404-e10c-5f47-fd9f-4d5610468941

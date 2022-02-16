@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: David Lafferty Made Public project "Spare the Road"
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-301-introduction-to-the-visual-arts-spring-2007/84671fc90b2445937f69b709ca0dcb8b_1lafferty.jpg
+file: /media/courses/4-301-introduction-to-the-visual-arts-spring-2007/84671fc90b2445937f69b709ca0dcb8b_1lafferty.jpg
 file_type: image/jpeg
 image_metadata:
   caption: David Lafferty Made Public project "Spare the Road"
   credit: Image courtesy of David Lafferty
   image-alt: David Lafferty Made Public project "Spare the Road"
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Student work 2004
+parent_type: CourseSection
 resourcetype: Image
 title: 1lafferty.jpg
 uid: 84671fc9-0b24-4593-7f69-b709ca0dcb8b
