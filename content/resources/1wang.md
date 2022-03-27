@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Student work 2004
 parent_type: CourseSection
+parent_uid: d8c0f18b-d364-943c-ca0d-62602a9d06f9
 resourcetype: Image
 title: 1wang.jpg
 uid: ac8a0bd2-6b14-bbb1-2b0e-708de4dbb6da

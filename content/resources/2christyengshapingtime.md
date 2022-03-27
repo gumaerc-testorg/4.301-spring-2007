@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: thumbs
 parent_type: CourseSection
+parent_uid: 2e9b3e35-8a0f-d12c-2481-92291c34e3d3
 resourcetype: Image
 title: 2ChristyEngShapingTime.jpg
 uid: c1709db1-8f70-b546-5d5a-97d250846a03

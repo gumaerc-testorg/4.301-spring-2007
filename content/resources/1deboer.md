@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Student work 2004
 parent_type: CourseSection
+parent_uid: d8c0f18b-d364-943c-ca0d-62602a9d06f9
 resourcetype: Image
 title: JDeBoer
 uid: a23a7c20-f022-5bd0-8ad6-96deac3ce83f

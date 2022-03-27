@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 8c77198b-5306-43e0-e057-28b019b4e522
 resourcetype: Image
 title: Natalie Cheung Body Extension Project.jpeg
 uid: e1c680f0-4e12-4dac-7bf1-8a8ca71673e3

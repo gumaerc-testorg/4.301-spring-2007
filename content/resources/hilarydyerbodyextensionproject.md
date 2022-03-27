@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 8c77198b-5306-43e0-e057-28b019b4e522
 resourcetype: Image
 title: Hilary Dyer Body Extension Project.jpeg
 uid: 951ba4ee-ef6d-b221-6dab-afd6cdcd70e3

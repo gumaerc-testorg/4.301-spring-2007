@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Student work 2004
 parent_type: CourseSection
+parent_uid: d8c0f18b-d364-943c-ca0d-62602a9d06f9
 resourcetype: Document
 title: 3christyeng.pdf
 uid: 99edad9e-067e-426f-c30a-93a1fdd492c5

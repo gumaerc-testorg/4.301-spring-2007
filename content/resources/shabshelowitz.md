@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: thumbs
 parent_type: CourseSection
+parent_uid: 2e9b3e35-8a0f-d12c-2481-92291c34e3d3
 resourcetype: Image
 title: shabshelowitz.jpg
 uid: 1b3f2320-51f6-5bf5-c0c4-5a048abd9d1a

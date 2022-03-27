@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Student work 2004
 parent_type: CourseSection
+parent_uid: d8c0f18b-d364-943c-ca0d-62602a9d06f9
 resourcetype: Image
 title: 3akeju.jpg
 uid: 38027242-6130-d928-0325-4b441985713f

@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 8c77198b-5306-43e0-e057-28b019b4e522
 resourcetype: Image
 title: Thaddeus Wozniak Made Public Project.jpeg
 uid: aed10cf8-81ce-25b2-8f2e-cf29ceba6a7a

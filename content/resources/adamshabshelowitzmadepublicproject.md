@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 8c77198b-5306-43e0-e057-28b019b4e522
 resourcetype: Image
 title: Adam Shabshelowitz Made Public Project.jpeg
 uid: c2a42b43-9400-b9c3-77b4-5df51fbbf8c2

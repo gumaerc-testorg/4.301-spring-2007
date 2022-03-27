@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Student work 2004
 parent_type: CourseSection
+parent_uid: d8c0f18b-d364-943c-ca0d-62602a9d06f9
 resourcetype: Document
 title: 1akeju.pdf
 uid: 31b39f4f-03ba-7ca9-a6bd-e44caa5cb55d

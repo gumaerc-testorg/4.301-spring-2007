@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 8c77198b-5306-43e0-e057-28b019b4e522
 resourcetype: Image
 title: Sal Pallante Body Extension Project.jpeg
 uid: be95910f-14e3-a084-1edf-c3ba8ac3f57b

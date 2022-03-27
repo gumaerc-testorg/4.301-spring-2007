@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 8c77198b-5306-43e0-e057-28b019b4e522
 resourcetype: Image
 title: Cathlene Allard Body Extension Project.jpeg
 uid: 1cc87046-b728-892d-bc1b-98dbb5c3e80c
