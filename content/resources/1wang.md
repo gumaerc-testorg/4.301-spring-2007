@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Tiffany Wang Made Public project "Untitled"
-file: /media/courses/4-301-introduction-to-the-visual-arts-spring-2007/ac8a0bd26b14bbb12b0e708de4dbb6da_1wang.jpg
+file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/ac8a0bd26b14bbb12b0e708de4dbb6da_1wang.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Tiffany Wang Made Public project "Untitled"
@@ -16,3 +16,5 @@ resourcetype: Image
 title: 1wang.jpg
 uid: ac8a0bd2-6b14-bbb1-2b0e-708de4dbb6da
 ---
+Tiffany Wang Made Public project "Untitled"
+

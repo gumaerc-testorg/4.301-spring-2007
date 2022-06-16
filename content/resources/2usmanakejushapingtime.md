@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/courses/4-301-introduction-to-the-visual-arts-spring-2007/afad734541c34a34be70f1d09f2140b3_2UsmanAkejuShapingTime.jpg
+file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/afad734541c34a34be70f1d09f2140b3_2UsmanAkejuShapingTime.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -16,3 +16,5 @@ resourcetype: Image
 title: 2UsmanAkejuShapingTime.jpg
 uid: afad7345-41c3-4a34-be70-f1d09f2140b3
 ---
+New image Upload
+

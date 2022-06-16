@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Shauna Jin Body Extension project "Untitled"
-file: /media/courses/4-301-introduction-to-the-visual-arts-spring-2007/ab0d271abcbbad4f5c45539039c24e83_3jin.jpg
+file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/ab0d271abcbbad4f5c45539039c24e83_3jin.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Shauna Jin Body Extension project "Untitled"
@@ -16,3 +16,5 @@ resourcetype: Image
 title: 3jin.jpg
 uid: ab0d271a-bcbb-ad4f-5c45-539039c24e83
 ---
+Shauna Jin Body Extension project "Untitled"
+
