@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section provides information on the course assignments.  Completed
+  projects from the 2004 and 2005 classes are also presented as examples of student
+  work.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 8c77198b-5306-43e0-e057-28b019b4e522
 ---
@@ -9,15 +15,15 @@ The class is organized around three sections, and each section has its own assig
 Assignments
 -----------
 
-Assignment 1: Shaping Time ([PDF]({{< baseurl >}}/resources/assn1))
+Assignment 1: Shaping Time ({{% resource_link 8051543c-4217-eaf4-1aaa-eeecd2da5381 "PDF" %}})
 
 Using demonstrated production and editing techniques, make a 90 second experimental video. Sound must be diegetic or self generated.
 
-Assignment 2: Body Extension ([PDF]({{< baseurl >}}/resources/assn2))
+Assignment 2: Body Extension ({{% resource_link 2b248f7d-8a22-e43b-0f4b-d192d468bfe5 "PDF" %}})
 
 Create an art work that exists as a "body extension," a sculptural/architectural/corporeal supplement. Use your own body as a starting point for an exploration of the self, including psychological and physical aspects and concepts of identity. The second part of the assignment asks you to interact with your body extension in a way that significantly alters your experience of it.
 
-Assignment 3: Made Public ([PDF]({{< baseurl >}}/resources/assn3))
+Assignment 3: Made Public ({{% resource_link f03c3963-7e6a-d328-0f6a-4292e9b03525 "PDF" %}})
 
 Create a work of art in a public place that addresses the physical, psychological and social dimensions of the site. You will be asked to research various public sites in order to locate an appropriate context within which to respond. Consideration of the political and ethical implications of working in a public area will be central to the development of the project. Document your project appropriately.
 
@@ -25,7 +31,7 @@ Student Work 2005
 -----------------
 
 The work of the students from the class is presented below, organized by media type. All work is used with permission.
-{{< image-gallery id="8c77198b-5306-43e0-e057-28b019b4e522_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-301-introduction-to-the-visual-arts-spring-2007/" >}}
+{{< image-gallery id="8c77198b-5306-43e0-e057-28b019b4e522_nanogallery2" baseUrl="/courses/4-301-introduction-to-the-visual-arts-spring-2007/" >}}
 {{< image-gallery-item href="1cc87046b728892dbc1b98dbb5c3e80c_CathleneAllardBodyExtensionProject.jpeg" data-ngdesc="Cathlene Allard Body Extension Project." text="Cathlene Allard Body Extension Project." >}}
 {{< image-gallery-item href="843b6a14a14218f2a486984ef2e34165_CathleneAllardMadePublicProject.jpeg" data-ngdesc="Cathlene Allard Made Public Project." text="Cathlene Allard Made Public Project." >}}
 {{< image-gallery-item href="c9126c394572aa80cee385451705747e_PaulBoudreauBodyExtensionProject.jpeg" data-ngdesc="Paul Boudreau Body Extension Project." text="Paul Boudreau Body Extension Project." >}}
@@ -71,7 +77,7 @@ The work of the students from the class is presented below, organized by media t
 
 Daniel Campos
 
-![camposs.jpg]({{< resource_file b2d10ebd-4fb5-d4cd-af99-95894a6a9556 >}})
+{{< resource b2d10ebd-4fb5-d4cd-af99-95894a6a9556 >}}
 
 Video ([MP4 - 2MB](http://www.archive.org/download/MIT4.301F05/ocw-4.301-camposs-220k.mp4))
 
@@ -82,7 +88,7 @@ Video ([MP4 - 2MB](http://www.archive.org/download/MIT4.301F05/ocw-4.301-camposs
 
 Matthew Faulkner
 
-![faulkner.jpg]({{< resource_file 39cd94bc-d0ac-7dc4-31d2-22e69c4b2703 >}})
+{{< resource 39cd94bc-d0ac-7dc4-31d2-22e69c4b2703 >}}
 
 Video ([MP4 - 2MB](http://www.archive.org/download/MIT4.301F05/ocw-4.301-faulkner-220k.mp4))
 
@@ -93,7 +99,7 @@ Video ([MP4 - 2MB](http://www.archive.org/download/MIT4.301F05/ocw-4.301-faulkne
 
 Sal Pallante
 
-![pallente.jpg]({{< resource_file ea8d539e-2886-1fa3-6416-cfa02eb51625 >}})
+{{< resource ea8d539e-2886-1fa3-6416-cfa02eb51625 >}}
 
 Video ([MP4 - 3MB](http://www.archive.org/download/MIT4.301F05/ocw-4.301-pallente-220k.mp4))
 
@@ -104,7 +110,7 @@ Video ([MP4 - 3MB](http://www.archive.org/download/MIT4.301F05/ocw-4.301-pallent
 
 Adam Shabshelowitz
 
-![shabshelowitz.jpg]({{< resource_file 1b3f2320-51f6-5bf5-c0c4-5a048abd9d1a >}})
+{{< resource 1b3f2320-51f6-5bf5-c0c4-5a048abd9d1a >}}
 
 Video ([MP4 - 3MB](http://www.archive.org/download/MIT4.301F05/ocw-4.301-shabshelowitz-220k.mp4))
 

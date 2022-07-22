@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides video of presentations from artists speaking about
+  their recent work, from the Center for Advanced Visual Studies (CAVS) lecture series.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 427ab737-efc6-9cdc-8db0-ab55a522c634
 ---
