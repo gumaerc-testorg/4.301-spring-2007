@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: thumbs
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: T3akeju.jpg
 uid: 89539645-84b1-d561-4295-bc33b31b37bf
 ---
 New image Upload
-

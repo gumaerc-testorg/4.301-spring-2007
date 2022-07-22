@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of Joaquin Ruiz
   image-alt: Joaquin Ruiz Made Public project "Untitled"
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Student work 2004
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 1ruiz.jpg
 uid: c0526c20-f91d-4938-974c-3756a7f6a3f2
 ---
 Joaquin Ruiz Made Public project "Untitled"
-

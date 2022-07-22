@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Sal Pallante Body Extension Project.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Sal Pallante Body Extension Project.jpeg
 uid: be95910f-14e3-a084-1edf-c3ba8ac3f57b
 ---
 Sal Pallante Body Extension Project.
-

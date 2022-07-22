@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Daniel Campos Body Extension Project.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Daniel Campos Body Extension Project.jpeg
 uid: a12d44bf-6d54-d457-1e94-9f9d194fa7be
 ---
 Daniel Campos Body Extension Project.
-

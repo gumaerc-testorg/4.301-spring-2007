@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: thumbs
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 3ChristyEngBodyExtension.jpg
 uid: b3f1030e-852b-d1d0-8aef-85c1b9b82f9d
 ---
 New image Upload
-

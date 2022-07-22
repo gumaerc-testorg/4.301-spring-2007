@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: thumbs
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 2DavidLaffertyShapingTime.jpg
 uid: 19839867-8117-cc02-0fe5-3ee8f303f57c
 ---
 New image Upload
-

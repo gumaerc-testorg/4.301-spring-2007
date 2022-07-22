@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: thumbs
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: T1poulson.jpg
 uid: 3832a7dc-0f8c-5b1f-3af8-3715d56c6673
 ---
 New image Upload
-

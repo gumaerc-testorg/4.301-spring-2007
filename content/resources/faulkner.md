@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: thumbs
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: faulkner.jpg
 uid: 39cd94bc-d0ac-7dc4-31d2-22e69c4b2703
 ---
 New image Upload
-

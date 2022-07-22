@@ -9,6 +9,7 @@ image_metadata:
   image-alt: 'Sal Pallante Made Public Project. '
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Sal Pallante Made Public Project.jpeg
 uid: f099c07a-9053-a89f-8548-844c872ba84b
 ---
 Sal Pallante Made Public Project. 
-

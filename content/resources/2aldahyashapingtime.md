@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: thumbs
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 2AlDahyaShapingTime.jpg
 uid: 359a6fac-cac2-806c-4e48-588459d412be
 ---
 New image Upload
-

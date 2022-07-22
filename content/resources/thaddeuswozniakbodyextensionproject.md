@@ -9,6 +9,7 @@ image_metadata:
   image-alt: 'Thaddeus Wozniak Body Extension Project. '
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Thaddeus Wozniak Body Extension Project.jpeg
 uid: dc5db572-2549-8503-da6a-ed4db80f2299
 ---
 Thaddeus Wozniak Body Extension Project. 
-

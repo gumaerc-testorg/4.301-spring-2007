@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Lauren McCarthy Body Extension Project.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Lauren McCarthy Body Extension Project.jpeg
 uid: 45aae8d1-1ca2-ff3f-37b6-aa654daad771
 ---
 Lauren McCarthy Body Extension Project.
-

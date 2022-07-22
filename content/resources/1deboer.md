@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of Jennifer DeBoer
   image-alt: Jennifer DeBoer Made Public project "Embracing Better Learning"
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Student work 2004
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: JDeBoer
 uid: a23a7c20-f022-5bd0-8ad6-96deac3ce83f
 ---
 Jennifer DeBoer Made Public project "Embracing Better Learning"
-

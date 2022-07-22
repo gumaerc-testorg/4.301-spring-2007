@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of Joaquin Ruiz
   image-alt: Joaquin Ruiz Body Extension project "Head Shot"
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Student work 2004
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 3ruiz.jpg
 uid: 21ce0574-f060-a0a4-78ec-7f3479f04cb8
 ---
 Joaquin Ruiz Body Extension project "Head Shot"
-

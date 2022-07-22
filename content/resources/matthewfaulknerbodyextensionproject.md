@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Matthew Faulkner Body Extension Project.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Matthew Faulkner Body Extension Project.jpeg
 uid: e28a0f9a-ccda-8843-5d02-1374f0cdaeb7
 ---
 Matthew Faulkner Body Extension Project.
-

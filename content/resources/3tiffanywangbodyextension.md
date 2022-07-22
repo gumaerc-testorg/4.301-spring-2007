@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: thumbs
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 3TiffanyWangBodyExtension.jpg
 uid: 5f68b073-f8c0-070e-3160-f476e8ed335e
 ---
 New image Upload
-

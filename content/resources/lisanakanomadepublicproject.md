@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Lisa Nakano Made Public Project.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Lisa Nakano Made Public Project.jpeg
 uid: 562de0e5-3fea-3c8c-f628-84948fa8fa27
 ---
 Lisa Nakano Made Public Project.
-

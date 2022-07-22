@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: thumbs
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 3ShauntelPoulsonBodyExtens.jpg
 uid: 3308dd70-3c64-63c0-584f-ad3aa2adcdf8
 ---
 New image Upload
-

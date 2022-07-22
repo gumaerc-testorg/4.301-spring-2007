@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Adam Shabshelowitz Body Extension Project.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Adam Shabshelowitz Body Extension Project.jpeg
 uid: a1dd7bb7-cfe3-79b1-c9cf-2a9dfe7a872d
 ---
 Adam Shabshelowitz Body Extension Project.
-

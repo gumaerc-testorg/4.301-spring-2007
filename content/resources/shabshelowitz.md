@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: thumbs
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: shabshelowitz.jpg
 uid: 1b3f2320-51f6-5bf5-c0c4-5a048abd9d1a
 ---
 New image Upload
-

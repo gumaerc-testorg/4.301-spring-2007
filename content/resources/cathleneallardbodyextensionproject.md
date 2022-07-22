@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Cathlene Allard Body Extension Project.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Cathlene Allard Body Extension Project.jpeg
 uid: 1cc87046-b728-892d-bc1b-98dbb5c3e80c
 ---
 Cathlene Allard Body Extension Project. 
-

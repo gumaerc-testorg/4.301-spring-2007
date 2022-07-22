@@ -5,6 +5,7 @@ file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/2b248f7d8a22e43
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assn2.pdf
 uid: 2b248f7d-8a22-e43b-0f4b-d192d468bfe5
 ---
 This resource contains instructions for the Body Extension assignment.
-

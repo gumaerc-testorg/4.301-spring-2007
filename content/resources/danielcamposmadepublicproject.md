@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Daniel Campos Made Public Project.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Daniel Campos Made Public Project.jpeg
 uid: b86f9886-38fc-a30c-a964-c59f3ec4bae7
 ---
 Daniel Campos Made Public Project.
-

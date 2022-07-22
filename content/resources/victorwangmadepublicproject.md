@@ -9,6 +9,7 @@ image_metadata:
   image-alt: 'Victor Wang Made Public Project. '
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Victor Wang Made Public Project.jpeg
 uid: 18c0c723-ab80-b404-802d-2075a3b7699e
 ---
 Victor Wang Made Public Project. 
-

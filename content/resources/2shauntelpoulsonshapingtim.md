@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: thumbs
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 2ShauntelPoulsonShapingTim.jpg
 uid: 73880a1d-4ec2-c51a-b4f8-1d284c26f61b
 ---
 New image Upload
-

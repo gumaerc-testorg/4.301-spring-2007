@@ -9,6 +9,7 @@ image_metadata:
   image-alt: 'Elisabeth Lex Made Public Project. '
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Elisabeth Lex Made Public Project.jpeg
 uid: d8bc4082-d5be-61ad-cac7-44123a3c3197
 ---
 Elisabeth Lex Made Public Project. 
-

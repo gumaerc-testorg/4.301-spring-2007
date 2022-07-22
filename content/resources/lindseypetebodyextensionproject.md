@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Lindsey Pete Body Extension Project.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Lindsey Pete Body Extension Project.jpeg
 uid: 50aa5e24-0642-27a5-e3dc-303b1a0f5898
 ---
 Lindsey Pete Body Extension Project.
-

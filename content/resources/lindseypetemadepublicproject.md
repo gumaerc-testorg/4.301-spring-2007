@@ -9,6 +9,7 @@ image_metadata:
   image-alt: 'Lindsey Pete Made Public Project. '
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Lindsey Pete Made Public Project.jpeg
 uid: e4b64fef-8a36-c80b-89c4-d0c669ff58f9
 ---
 Lindsey Pete Made Public Project. 
-

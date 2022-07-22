@@ -5,6 +5,7 @@ file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/8051543c4217eaf
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assn1.pdf
 uid: 8051543c-4217-eaf4-1aaa-eeecd2da5381
 ---
 This resource contains instructions for the Shaping Time assignment.
-

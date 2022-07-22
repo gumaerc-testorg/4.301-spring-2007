@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Natalie Cheung Made Public Project
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: NatalieCheungMadePublicProject.jpeg
 uid: 89c1b102-7790-dc90-3aa1-706b6ef14766
 ---
 Natalie Cheung Made Public Project
-

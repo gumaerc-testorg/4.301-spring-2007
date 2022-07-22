@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of Usman Akeju
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Student work 2004
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 1akeju.jpg
 uid: 746eb445-eac7-1a4e-374d-a16d0ffd1dcd
 ---
 Usman Akeju Made Public project "The Picnic"
-

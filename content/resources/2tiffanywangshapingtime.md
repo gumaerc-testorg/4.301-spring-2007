@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: thumbs
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 2TiffanyWangShapingTime.jpg
 uid: e93eab1e-ebb2-be61-3947-c1da4a4942e5
 ---
 New image Upload
-

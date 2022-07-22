@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: thumbs
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 2JenniferDeBoerShapingTime.jpg
 uid: 8babfeb0-2079-f403-7485-ebbf08a43b00
 ---
 New image Upload
-

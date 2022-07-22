@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ZhiDe Deng Body Extension Project
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: ZhiDe Deng Body Extension Project.jpeg
 uid: bf4c1cb8-2637-443f-55e6-503718081f02
 ---
 ZhiDe Deng Body Extension Project
-

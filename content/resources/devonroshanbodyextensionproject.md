@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Devon Roshan Body Extension Project.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Devon Roshan Body Extension Project.jpeg
 uid: 6928fc9c-2d8a-a6fa-5e9d-6a2a7f01515a
 ---
 Devon Roshan Body Extension Project.
-

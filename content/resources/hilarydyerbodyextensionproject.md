@@ -9,6 +9,7 @@ image_metadata:
   image-alt: 'Hilary Dyer Body Extension Project. '
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Hilary Dyer Body Extension Project.jpeg
 uid: 951ba4ee-ef6d-b221-6dab-afd6cdcd70e3
 ---
 Hilary Dyer Body Extension Project. 
-

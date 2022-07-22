@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Hilary Dyer Made Public Project.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Hilary Dyer Made Public Project.jpeg
 uid: 8ddfd532-aff6-20a8-0f8a-94a8c30f2c2d
 ---
 Hilary Dyer Made Public Project.
-

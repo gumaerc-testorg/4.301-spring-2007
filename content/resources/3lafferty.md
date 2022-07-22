@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of David Lafferty
   image-alt: David Lafferty Body Extension project "Untitled"
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Student work 2004
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 3lafferty.jpg
 uid: d17b2c53-d8ae-2ee5-e5e1-7470ac1c1c3c
 ---
 David Lafferty Body Extension project "Untitled"
-

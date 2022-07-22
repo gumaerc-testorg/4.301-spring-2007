@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Paul Boudreau Made Public Project.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Paul Boudreau Made Public Project.jpeg
 uid: 1c7986e4-0c78-4e10-2424-339a2aa7d9b7
 ---
 Paul Boudreau Made Public Project.
-

@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Devon Roshan Made Public Project.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Devon Roshan Made Public Project.jpeg
 uid: 933abd2e-abf5-d3b2-b7de-e32bd489b382
 ---
 Devon Roshan Made Public Project.
-

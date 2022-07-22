@@ -9,6 +9,7 @@ image_metadata:
   image-alt: 'Lauren McCarthy Made Public Project. '
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Lauren McCarthy Made Public Project.jpeg
 uid: 3eb4bfd3-a3b3-1633-1c22-30949ab917cd
 ---
 Lauren McCarthy Made Public Project. 
-

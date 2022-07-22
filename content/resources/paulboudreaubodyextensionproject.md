@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Paul Boudreau Body Extension Project.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Paul Boudreau Body Extension Project.jpeg
 uid: c9126c39-4572-aa80-cee3-85451705747e
 ---
 Paul Boudreau Body Extension Project.
-

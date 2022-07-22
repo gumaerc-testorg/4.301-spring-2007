@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Adam Shabshelowitz Made Public Project.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Adam Shabshelowitz Made Public Project.jpeg
 uid: c2a42b43-9400-b9c3-77b4-5df51fbbf8c2
 ---
 Adam Shabshelowitz Made Public Project.
-

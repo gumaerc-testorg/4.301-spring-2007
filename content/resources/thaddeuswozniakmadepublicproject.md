@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Thaddeus Wozniak Made Public Project.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Thaddeus Wozniak Made Public Project.jpeg
 uid: aed10cf8-81ce-25b2-8f2e-cf29ceba6a7a
 ---
 Thaddeus Wozniak Made Public Project.
-

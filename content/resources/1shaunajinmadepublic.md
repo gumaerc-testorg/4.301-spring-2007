@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Thumbnails 2004
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 1ShaunaJinMadePublic.jpg
 uid: 4f91d56f-8cd0-2fa8-d5d0-e33ebd854f7f
 ---
 New image Upload
-

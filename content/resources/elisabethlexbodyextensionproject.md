@@ -9,6 +9,7 @@ image_metadata:
   image-alt: 'Elisabeth Lex Body Extension Project. '
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: ElisabethLexBodyExtensionProject.jpeg
 uid: 150c649e-b8fb-45f0-9fe1-1e8d7397b656
 ---
 Elisabeth Lex Body Extension Project. 
-

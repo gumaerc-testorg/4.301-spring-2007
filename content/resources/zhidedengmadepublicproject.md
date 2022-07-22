@@ -9,6 +9,7 @@ image_metadata:
   image-alt: 'ZhiDe Deng Made Public Project. '
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: ZhiDe Deng Made Public Project.jpeg
 uid: 9587dc22-c540-cb7b-2f21-9b31983540ff
 ---
 ZhiDe Deng Made Public Project. 
-

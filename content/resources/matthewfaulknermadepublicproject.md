@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Matthew Faulkner Made Public Project.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Matthew Faulkner Made Public Project.jpeg
 uid: 5c51eb79-ab81-687b-ad19-72d8b4ae46cc
 ---
 Matthew Faulkner Made Public Project.
-

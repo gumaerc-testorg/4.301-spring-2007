@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: thumbs
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 2UsmanAkejuShapingTime.jpg
 uid: afad7345-41c3-4a34-be70-f1d09f2140b3
 ---
 New image Upload
-

@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Cathlene Allard Made Public Project.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Cathlene Allard Made Public Project.jpeg
 uid: 843b6a14-a142-18f2-a486-984ef2e34165
 ---
 Cathlene Allard Made Public Project.
-

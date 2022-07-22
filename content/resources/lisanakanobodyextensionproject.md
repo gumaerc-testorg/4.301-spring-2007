@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Lisa Nakano Body Extension Project.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Lisa Nakano Body Extension Project.jpeg
 uid: df37828d-679a-5f34-5a6d-e829b1e6e3ff
 ---
 Lisa Nakano Body Extension Project.
-

@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Natalie Cheung Body Extension Project.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Natalie Cheung Body Extension Project.jpeg
 uid: e1c680f0-4e12-4dac-7bf1-8a8ca71673e3
 ---
 Natalie Cheung Body Extension Project.
-

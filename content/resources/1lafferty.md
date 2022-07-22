@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of David Lafferty
   image-alt: David Lafferty Made Public project "Spare the Road"
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Student work 2004
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 1lafferty.jpg
 uid: 84671fc9-0b24-4593-7f69-b709ca0dcb8b
 ---
 David Lafferty Made Public project "Spare the Road"
-

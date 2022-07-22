@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of Al Dahya
   image-alt: Al Dahya Made Public project "Upon a Blank Slate"
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Student work 2004
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 1dahya.jpg
 uid: e48a6653-ebac-3234-f04a-6b5f186c731b
 ---
 Al Dahya Made Public project "Upon a Blank Slate"
-
