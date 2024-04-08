@@ -46,7 +46,7 @@ Shaping Time
 
 {{< resource c91ad44f-760f-747f-47d4-28e51b4ea81e >}}
 
-Video ([MP4 - 5MB](http://www.archive.org/download/MIT4.301F04/2UsmanAkeju-ShapingTime-220k.mp4))
+Video ({{% resource_link "581c289f-3f01-40f8-96b9-607d6ac7dca5" "MP4 - 5MB" %}})
 
 
 {{< tdclose >}}
@@ -59,7 +59,7 @@ Shaping Time
 
 {{< resource b76695d3-7ed7-1462-c39c-bf13796c0f20 >}}
 
-Video ([MP4 - 3MB](http://www.archive.org/download/MIT4.301F04/2AlDahya-ShapingTime-220k.mp4))
+Video ({{% resource_link "03d1dddf-eea6-4fad-8621-43cd3620fa19" "MP4 - 3MB" %}})
 
 
 {{< tdclose >}}
@@ -72,7 +72,7 @@ Body Extension
 
 {{< resource e74e3712-4693-2455-4f10-650a723aed80 >}}
 
-Video ([MP4 - 23MB](http://www.archive.org/download/MIT4.301F04/3AlDahya-BodyExtension-220k.mp4))
+Video ({{% resource_link "cc4d73b0-58b7-4f28-b79d-238b1e4eac14" "MP4 - 23MB" %}})
 
 
 {{< tdclose >}}
@@ -85,7 +85,7 @@ Shaping Time
 
 {{< resource 8babfeb0-2079-f403-7485-ebbf08a43b00 >}}
 
-Video ([MP4 - 5MB](http://www.archive.org/download/MIT4.301F04/2JenniferDeBoer-ShapingTime-220k.mp4))
+Video ({{% resource_link "ece7e761-c1a3-493e-916c-44c5e9676df7" "MP4 - 5MB" %}})
 
 
 {{< tdclose >}}
@@ -101,7 +101,7 @@ Shaping Time
 
 {{< resource c1709db1-8f70-b546-5d5a-97d250846a03 >}}
 
-Video ([MP4 - 4MB](http://www.archive.org/download/MIT4.301F04/2ChristyEng-ShapingTime-220k.mp4))
+Video ({{% resource_link "62a0ff25-fd89-4dce-80fc-fa415a69b7f5" "MP4 - 4MB" %}})
 
 
 {{< tdclose >}}
@@ -114,7 +114,7 @@ Body Extension
 
 {{< resource b3f1030e-852b-d1d0-8aef-85c1b9b82f9d >}}
 
-Video ([MP4 - 23MB](http://www.archive.org/download/MIT4.301F04/3ChristyEng-BodyExtension-220k.mp4))
+Video ({{% resource_link "591a48b7-b708-49b2-9149-3e89dc853fb5" "MP4 - 23MB" %}})
 
 
 {{< tdclose >}}
@@ -127,7 +127,7 @@ Made Public
 
 {{< resource 4f91d56f-8cd0-2fa8-d5d0-e33ebd854f7f >}}
 
-Video ([MP4 - 6MB](http://www.archive.org/download/MIT4.301F04/1ShaunaJin-MadePublic-220k.mp4))
+Video ({{% resource_link "2df3ffdc-e35e-40b9-a1cb-9ccc75945265" "MP4 - 6MB" %}})
 
 
 {{< tdclose >}}
@@ -140,7 +140,7 @@ Shaping Time
 
 {{< resource 9d5463cb-6dda-dfd6-a3ed-b1cfb76e0d9e >}}
 
-Video ([MP4 - 5MB](http://www.archive.org/download/MIT4.301F04/2ShaunaJin-ShapingTime-220k.mp4))
+Video ({{% resource_link "5532ef49-aa33-4917-b4eb-7e04ffcf9b9e" "MP4 - 5MB" %}})
 
 
 {{< tdclose >}}
@@ -156,7 +156,7 @@ Shaping Time
 
 {{< resource 19839867-8117-cc02-0fe5-3ee8f303f57c >}}
 
-Video ([MP4 - 5MB](http://www.archive.org/download/MIT4.301F04/2DavidLafferty-ShapingTime-220k.mp4))
+Video ({{% resource_link "687a115c-9e17-4829-87a1-ad2827e2d079" "MP4 - 5MB" %}})
 
 
 {{< tdclose >}}
@@ -169,7 +169,7 @@ Shaping Time
 
 {{< resource 73880a1d-4ec2-c51a-b4f8-1d284c26f61b >}}
 
-Video ([MP4 - 4MB](http://www.archive.org/download/MIT4.301F04/2ShauntelPoulson-ShapingTime-220k.mp4))
+Video ({{% resource_link "8fbb01f1-df98-49cc-b3c6-894079026975" "MP4 - 4MB" %}})
 
 
 {{< tdclose >}}
@@ -182,7 +182,7 @@ Body Extension
 
 {{< resource 3308dd70-3c64-63c0-584f-ad3aa2adcdf8 >}}
 
-Video ([MP4 - 9MB](http://www.archive.org/download/MIT4.301F04/3ShauntelPoulson-BodyExtension-220k.mp4))
+Video ({{% resource_link "5fde5b28-404a-4d6a-931d-51dfca2beaf5" "MP4 - 9MB" %}})
 
 
 {{< tdclose >}}
@@ -195,7 +195,7 @@ Shaping Time
 
 {{< resource 608325e8-8a1f-7429-ac1d-b8c339ebd601 >}}
 
-Video ([MP4 - 6MB](http://www.archive.org/download/MIT4.301F04/2JoaquinRuiz-ShapingTime-220k.mp4))
+Video ({{% resource_link "5c1978ea-8c93-4bcd-9000-1633042cb098" "MP4 - 6MB" %}})
 
 
 {{< tdclose >}}
@@ -211,7 +211,7 @@ Shaping Time
 
 {{< resource e93eab1e-ebb2-be61-3947-c1da4a4942e5 >}}
 
-Video ([MP4 - 4MB](http://www.archive.org/download/MIT4.301F04/2TiffanyWang-ShapingTime-220k.mp4))
+Video ({{% resource_link "796e17fc-7a9d-4564-937d-2c62903d85ef" "MP4 - 4MB" %}})
 
 
 {{< tdclose >}}
@@ -224,7 +224,7 @@ Body Extension
 
 {{< resource 5f68b073-f8c0-070e-3160-f476e8ed335e >}}
 
-Video ([MP4 - 7MB](http://www.archive.org/download/MIT4.301F04/3TiffanyWang-BodyExtension-220k.mp4))
+Video ({{% resource_link "d67f601b-c10a-4800-9eac-b56da4208e8f" "MP4 - 7MB" %}})
 
 
 {{< tdclose >}}
