@@ -2,6 +2,7 @@
 content_type: resource
 description: Adam Shabshelowitz Body Extension Project.
 file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/a1dd7bb7cfe379b1c9cf2a9dfe7a872d_AdamShabshelowitzBodyExtensionProject.jpeg
+file_size: 50596
 file_type: image/jpeg
 image_metadata:
   caption: Adam Shabshelowitz Body Extension Project.

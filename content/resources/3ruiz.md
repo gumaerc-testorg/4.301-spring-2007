@@ -2,6 +2,7 @@
 content_type: resource
 description: Joaquin Ruiz Body Extension project "Head Shot"
 file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/21ce0574f060a0a478ec7f3479f04cb8_3ruiz.jpg
+file_size: 34212
 file_type: image/jpeg
 image_metadata:
   caption: Joaquin Ruiz Body Extension project "Head Shot"

@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lindsey Pete Made Public Project. '
 file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/e4b64fef8a36c80b89c4d0c669ff58f9_LindseyPeteMadePublicProject.jpeg
+file_size: 65182
 file_type: image/jpeg
 image_metadata:
   caption: Lindsey Pete Made Public Project.

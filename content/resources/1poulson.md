@@ -2,6 +2,7 @@
 content_type: resource
 description: Shauntel Poulson Made Public project "Tranquility Within Tension"
 file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/ef1f93ab86b919f2b1c06d44f988b782_1poulson.jpg
+file_size: 34426
 file_type: image/jpeg
 image_metadata:
   caption: Shauntel Poulson Made Public project "Tranquility Within Tension"

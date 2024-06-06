@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Sal Pallante Made Public Project. '
 file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/f099c07a9053a89f8548844c872ba84b_SalPallanteMadePublicProject.jpeg
+file_size: 66815
 file_type: image/jpeg
 image_metadata:
   caption: Sal Pallante Made Public Project.

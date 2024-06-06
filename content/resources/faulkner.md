@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/39cd94bcd0ac7dc431d222e69c4b2703_faulkner.jpg
+file_size: 24781
 file_type: image/jpeg
 image_metadata:
   caption: ''

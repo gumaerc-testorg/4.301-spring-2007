@@ -2,6 +2,7 @@
 content_type: resource
 description: ZhiDe Deng Body Extension Project
 file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/bf4c1cb82637443f55e6503718081f02_ZhiDeDengBodyExtensionProject.jpeg
+file_size: 52287
 file_type: image/jpeg
 image_metadata:
   caption: ZhiDe Deng Body Extension Project

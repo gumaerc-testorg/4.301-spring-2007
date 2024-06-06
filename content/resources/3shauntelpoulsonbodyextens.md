@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/3308dd703c6463c0584fad3aa2adcdf8_3ShauntelPoulsonBodyExtens.jpg
+file_size: 3430
 file_type: image/jpeg
 image_metadata:
   caption: ''
