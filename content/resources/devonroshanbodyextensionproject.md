@@ -2,6 +2,7 @@
 content_type: resource
 description: Devon Roshan Body Extension Project.
 file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/6928fc9c2d8aa6fa5e9d6a2a7f01515a_DevonRoshanBodyExtensionProject.jpeg
+file_size: 51438
 file_type: image/jpeg
 image_metadata:
   caption: Devon Roshan Body Extension Project.

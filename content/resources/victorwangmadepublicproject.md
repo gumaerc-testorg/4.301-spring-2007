@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Victor Wang Made Public Project. '
 file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/18c0c723ab80b404802d2075a3b7699e_VictorWangMadePublicProject.jpeg
+file_size: 71378
 file_type: image/jpeg
 image_metadata:
   caption: Victor Wang Made Public Project.

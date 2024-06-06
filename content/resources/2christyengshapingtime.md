@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/c1709db18f70b5465d5a97d250846a03_2ChristyEngShapingTime.jpg
+file_size: 3351
 file_type: image/jpeg
 image_metadata:
   caption: ''

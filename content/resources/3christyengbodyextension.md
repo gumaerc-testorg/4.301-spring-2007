@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/b3f1030e852bd1d08aef85c1b9b82f9d_3ChristyEngBodyExtension.jpg
+file_size: 5387
 file_type: image/jpeg
 image_metadata:
   caption: ''

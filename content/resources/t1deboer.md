@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/bfdfe789b0005afcb621fee1a840935d_T1deboer.jpg
+file_size: 18891
 file_type: image/jpeg
 image_metadata:
   caption: ''

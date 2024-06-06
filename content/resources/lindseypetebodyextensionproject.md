@@ -2,6 +2,7 @@
 content_type: resource
 description: Lindsey Pete Body Extension Project.
 file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/50aa5e24064227a5e3dc303b1a0f5898_LindseyPeteBodyExtensionProject.jpeg
+file_size: 61411
 file_type: image/jpeg
 image_metadata:
   caption: Lindsey Pete Body Extension Project.

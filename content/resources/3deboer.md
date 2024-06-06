@@ -2,6 +2,7 @@
 content_type: resource
 description: Jennifer DeBoer Body Extension project "Hanging Up"
 file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/03a3b21b7268b1c3950822f7e285d59c_3deboer.jpg
+file_size: 34080
 file_type: image/jpeg
 image_metadata:
   caption: Jennifer DeBoer Body Extension project "Hanging Up"

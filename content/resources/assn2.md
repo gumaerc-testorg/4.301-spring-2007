@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains instructions for the Body Extension assignment.
 file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/2b248f7d8a22e43b0f4bd192d468bfe5_assn2.pdf
+file_size: 50821
 file_type: application/pdf
 learning_resource_types:
 - Projects

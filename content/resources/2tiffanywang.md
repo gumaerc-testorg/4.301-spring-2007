@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains an example of a completed student project.
 file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/e0a80b3d196bb28cbd89b34bcfd42fd6_2tiffanywang.pdf
+file_size: 58361
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

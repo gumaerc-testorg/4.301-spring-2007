@@ -2,6 +2,7 @@
 content_type: resource
 description: Lisa Nakano Body Extension Project.
 file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/df37828d679a5f345a6de829b1e6e3ff_LisaNakanoBodyExtensionProject.jpeg
+file_size: 36226
 file_type: image/jpeg
 image_metadata:
   caption: Lisa Nakano Body Extension Project.
