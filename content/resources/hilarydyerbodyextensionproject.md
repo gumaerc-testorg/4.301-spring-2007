@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Hilary Dyer Body Extension Project. '
 file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/951ba4eeef6db2216dabafd6cdcd70e3_HilaryDyerBodyExtensionProject.jpeg
+file_size: 59028
 file_type: image/jpeg
 image_metadata:
   caption: Hilary Dyer Body Extension Project.

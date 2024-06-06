@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/1b3f232051f65bf5c0c45a048abd9d1a_shabshelowitz.jpg
+file_size: 27945
 file_type: image/jpeg
 image_metadata:
   caption: ''

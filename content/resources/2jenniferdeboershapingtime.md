@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/8babfeb02079f4037485ebbf08a43b00_2JenniferDeBoerShapingTime.jpg
+file_size: 4107
 file_type: image/jpeg
 image_metadata:
   caption: ''

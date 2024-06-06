@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains instructions for the Shaping Time assignment.
 file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/8051543c4217eaf41aaaeeecd2da5381_assn1.pdf
+file_size: 53586
 file_type: application/pdf
 learning_resource_types:
 - Projects

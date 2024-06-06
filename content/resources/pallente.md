@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/ea8d539e28861fa36416cfa02eb51625_pallente.jpg
+file_size: 24294
 file_type: image/jpeg
 image_metadata:
   caption: ''

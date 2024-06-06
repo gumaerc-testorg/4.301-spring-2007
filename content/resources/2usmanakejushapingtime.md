@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/afad734541c34a34be70f1d09f2140b3_2UsmanAkejuShapingTime.jpg
+file_size: 2762
 file_type: image/jpeg
 image_metadata:
   caption: ''

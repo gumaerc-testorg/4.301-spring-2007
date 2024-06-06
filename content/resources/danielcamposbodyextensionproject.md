@@ -2,6 +2,7 @@
 content_type: resource
 description: Daniel Campos Body Extension Project.
 file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/a12d44bf6d54d4571e949f9d194fa7be_DanielCamposBodyExtensionProject.jpeg
+file_size: 46775
 file_type: image/jpeg
 image_metadata:
   caption: Daniel Campos Body Extension Project.

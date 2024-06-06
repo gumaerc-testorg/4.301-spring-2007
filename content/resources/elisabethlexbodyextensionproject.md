@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Elisabeth Lex Body Extension Project. '
 file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/150c649eb8fb45f09fe11e8d7397b656_ElisabethLexBodyExtensionProject.jpeg
+file_size: 48124
 file_type: image/jpeg
 image_metadata:
   caption: Elisabeth Lex Body Extension Project.
