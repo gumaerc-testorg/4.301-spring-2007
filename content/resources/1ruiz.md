@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Joaquin Ruiz Made Public project "Untitled"
-file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/c0526c20f91d4938974c3756a7f6a3f2_1ruiz.jpg
+file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/c0526c20f91d4938974c3756a7f6a3f2_1ruiz.jpg
 file_size: 88130
 file_type: image/jpeg
 image_metadata:

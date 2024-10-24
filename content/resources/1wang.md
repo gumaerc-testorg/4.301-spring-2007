@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Tiffany Wang Made Public project "Untitled"
-file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/ac8a0bd26b14bbb12b0e708de4dbb6da_1wang.jpg
+file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/ac8a0bd26b14bbb12b0e708de4dbb6da_1wang.jpg
 file_size: 24772
 file_type: image/jpeg
 image_metadata:

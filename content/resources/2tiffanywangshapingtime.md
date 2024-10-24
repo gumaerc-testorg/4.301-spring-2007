@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/e93eab1eebb2be613947c1da4a4942e5_2TiffanyWangShapingTime.jpg
+file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/e93eab1eebb2be613947c1da4a4942e5_2TiffanyWangShapingTime.jpg
 file_size: 4863
 file_type: image/jpeg
 image_metadata:
