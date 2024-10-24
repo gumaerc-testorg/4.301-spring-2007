@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: David Lafferty Body Extension project "Untitled"
-file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/d17b2c53d8ae2ee5e5e17470ac1c1c3c_3lafferty.jpg
+file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/d17b2c53d8ae2ee5e5e17470ac1c1c3c_3lafferty.jpg
 file_size: 39550
 file_type: image/jpeg
 image_metadata:

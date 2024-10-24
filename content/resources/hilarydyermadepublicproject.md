@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Hilary Dyer Made Public Project.
-file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/8ddfd532aff620a80f8a94a8c30f2c2d_HilaryDyerMadePublicProject.jpeg
+file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/8ddfd532aff620a80f8a94a8c30f2c2d_HilaryDyerMadePublicProject.jpeg
 file_size: 94942
 file_type: image/jpeg
 image_metadata:

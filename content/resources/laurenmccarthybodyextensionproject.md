@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lauren McCarthy Body Extension Project.
-file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/45aae8d11ca2ff3f37b6aa654daad771_LaurenMcCarthyBodyExtensionProject.jpeg
+file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/45aae8d11ca2ff3f37b6aa654daad771_LaurenMcCarthyBodyExtensionProject.jpeg
 file_size: 58589
 file_type: image/jpeg
 image_metadata:

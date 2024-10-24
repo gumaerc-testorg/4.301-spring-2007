@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains an example of a completed student project.
-file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/99edad9e067e426fc30a93a1fdd492c5_3christyeng.pdf
+file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/99edad9e067e426fc30a93a1fdd492c5_3christyeng.pdf
 file_size: 78231
 file_type: application/pdf
 learning_resource_types: []
