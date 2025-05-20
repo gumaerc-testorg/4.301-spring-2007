@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/3d2c8fdef3f559cc6780adf83dd3fe5d_VictorWangBodyExtensionProject.jpeg
+file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/3d2c8fdef3f559cc6780adf83dd3fe5d_VictorWangBodyExtensionProject.jpeg
 file_size: 51044
 file_type: image/jpeg
 image_metadata:

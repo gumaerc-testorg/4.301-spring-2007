@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Elisabeth Lex Made Public Project. '
-file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/d8bc4082d5be61adcac744123a3c3197_ElisabethLexMadePublicProject.jpeg
+file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/d8bc4082d5be61adcac744123a3c3197_ElisabethLexMadePublicProject.jpeg
 file_size: 62849
 file_type: image/jpeg
 image_metadata:

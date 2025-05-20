@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'ZhiDe Deng Made Public Project. '
-file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/9587dc22c540cb7b2f219b31983540ff_ZhiDeDengMadePublicProject.jpeg
+file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/9587dc22c540cb7b2f219b31983540ff_ZhiDeDengMadePublicProject.jpeg
 file_size: 51210
 file_type: image/jpeg
 image_metadata:

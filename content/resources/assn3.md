@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains instructions for the Made Public assignment.
-file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/f03c39637e6ad3280f6a4292e9b03525_assn3.pdf
+file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/f03c39637e6ad3280f6a4292e9b03525_assn3.pdf
 file_size: 11939
 file_type: application/pdf
 learning_resource_types:

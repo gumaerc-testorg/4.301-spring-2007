@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/359a6faccac2806c4e48588459d412be_2AlDahyaShapingTime.jpg
+file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/359a6faccac2806c4e48588459d412be_2AlDahyaShapingTime.jpg
 file_size: 3034
 file_type: image/jpeg
 image_metadata:

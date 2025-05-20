@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Natalie Cheung Body Extension Project.
-file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/e1c680f04e124dac7bf18a8ca71673e3_NatalieCheungBodyExtensionProject.jpeg
+file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/e1c680f04e124dac7bf18a8ca71673e3_NatalieCheungBodyExtensionProject.jpeg
 file_size: 56041
 file_type: image/jpeg
 image_metadata:

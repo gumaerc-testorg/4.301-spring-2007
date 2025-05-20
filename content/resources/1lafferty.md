@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: David Lafferty Made Public project "Spare the Road"
-file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/84671fc90b2445937f69b709ca0dcb8b_1lafferty.jpg
+file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/84671fc90b2445937f69b709ca0dcb8b_1lafferty.jpg
 file_size: 68583
 file_type: image/jpeg
 image_metadata:

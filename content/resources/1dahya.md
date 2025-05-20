@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Al Dahya Made Public project "Upon a Blank Slate"
-file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/e48a6653ebac3234f04a6b5f186c731b_1dahya.jpg
+file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/e48a6653ebac3234f04a6b5f186c731b_1dahya.jpg
 file_size: 41752
 file_type: image/jpeg
 image_metadata:
