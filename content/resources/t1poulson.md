@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/3832a7dc0f8c5b1f3af83715d56c6673_T1poulson.jpg
+file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/3832a7dc0f8c5b1f3af83715d56c6673_T1poulson.jpg
 file_size: 17519
 file_type: image/jpeg
 image_metadata:

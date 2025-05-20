@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Devon Roshan Made Public Project.
-file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/933abd2eabf5d3b2b7dee32bd489b382_DevonRoshanMadePublicProject.jpeg
+file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/933abd2eabf5d3b2b7dee32bd489b382_DevonRoshanMadePublicProject.jpeg
 file_size: 52071
 file_type: image/jpeg
 image_metadata:

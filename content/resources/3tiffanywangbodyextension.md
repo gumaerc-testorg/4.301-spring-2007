@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/5f68b073f8c0070e3160f476e8ed335e_3TiffanyWangBodyExtension.jpg
+file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/5f68b073f8c0070e3160f476e8ed335e_3TiffanyWangBodyExtension.jpg
 file_size: 3207
 file_type: image/jpeg
 image_metadata:

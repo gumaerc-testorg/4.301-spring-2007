@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Usman Akeju Made Public project "The Picnic"
-file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/746eb445eac71a4e374da16d0ffd1dcd_1akeju.jpg
+file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/746eb445eac71a4e374da16d0ffd1dcd_1akeju.jpg
 file_size: 62189
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sal Pallante Body Extension Project.
-file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/be95910f14e3a0841edfc3ba8ac3f57b_SalPallanteBodyExtensionProject.jpeg
+file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/be95910f14e3a0841edfc3ba8ac3f57b_SalPallanteBodyExtensionProject.jpeg
 file_size: 55639
 file_type: image/jpeg
 image_metadata:

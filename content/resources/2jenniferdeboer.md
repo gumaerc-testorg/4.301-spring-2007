@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains an example of a completed student project.
-file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/a4d6703b460b540e9a4730aeac977fd6_2jenniferdeboer.pdf
+file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/a4d6703b460b540e9a4730aeac977fd6_2jenniferdeboer.pdf
 file_size: 55552
 file_type: application/pdf
 learning_resource_types: []

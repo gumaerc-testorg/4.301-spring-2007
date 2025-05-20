@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Christy Eng Made Public project "Consume or Perish or Recycle and Flourish"
-file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/1f477340195880b34ecc94cfb5454255_1eng.jpg
+file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/1f477340195880b34ecc94cfb5454255_1eng.jpg
 file_size: 51506
 file_type: image/jpeg
 image_metadata:
