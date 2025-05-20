@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Cathlene Allard Made Public Project.
-file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/843b6a14a14218f2a486984ef2e34165_CathleneAllardMadePublicProject.jpeg
+file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/843b6a14a14218f2a486984ef2e34165_CathleneAllardMadePublicProject.jpeg
 file_size: 64184
 file_type: image/jpeg
 image_metadata:

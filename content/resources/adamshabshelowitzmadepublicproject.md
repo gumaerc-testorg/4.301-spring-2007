@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Adam Shabshelowitz Made Public Project.
-file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/c2a42b439400b9c377b45df51fbbf8c2_AdamShabshelowitzMadePublicProject.jpeg
+file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/c2a42b439400b9c377b45df51fbbf8c2_AdamShabshelowitzMadePublicProject.jpeg
 file_size: 62812
 file_type: image/jpeg
 image_metadata:

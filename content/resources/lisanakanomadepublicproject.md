@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lisa Nakano Made Public Project.
-file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/562de0e53fea3c8cf62884948fa8fa27_LisaNakanoMadePublicProject.jpeg
+file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/562de0e53fea3c8cf62884948fa8fa27_LisaNakanoMadePublicProject.jpeg
 file_size: 94942
 file_type: image/jpeg
 image_metadata:

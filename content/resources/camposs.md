@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/b2d10ebd4fb5d4cdaf9995894a6a9556_camposs.jpg
+file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/b2d10ebd4fb5d4cdaf9995894a6a9556_camposs.jpg
 file_size: 23540
 file_type: image/jpeg
 image_metadata:

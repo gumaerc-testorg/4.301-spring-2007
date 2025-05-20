@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Paul Boudreau Body Extension Project.
-file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/c9126c394572aa80cee385451705747e_PaulBoudreauBodyExtensionProject.jpeg
+file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/c9126c394572aa80cee385451705747e_PaulBoudreauBodyExtensionProject.jpeg
 file_size: 49148
 file_type: image/jpeg
 image_metadata:

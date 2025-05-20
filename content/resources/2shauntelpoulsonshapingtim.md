@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/73880a1d4ec2c51ab4f81d284c26f61b_2ShauntelPoulsonShapingTim.jpg
+file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/73880a1d4ec2c51ab4f81d284c26f61b_2ShauntelPoulsonShapingTim.jpg
 file_size: 3891
 file_type: image/jpeg
 image_metadata:
