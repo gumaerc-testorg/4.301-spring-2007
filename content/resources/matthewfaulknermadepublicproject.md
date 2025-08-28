@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Matthew Faulkner Made Public Project.
-file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/5c51eb79ab81687bad1972d8b4ae46cc_MatthewFaulknerMadePublicProject.jpeg
+file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/5c51eb79ab81687bad1972d8b4ae46cc_MatthewFaulknerMadePublicProject.jpeg
 file_size: 41422
 file_type: image/jpeg
 image_metadata:

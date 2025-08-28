@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/8953964584b1d5614295bc33b31b37bf_T3akeju.jpg
+file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/8953964584b1d5614295bc33b31b37bf_T3akeju.jpg
 file_size: 16281
 file_type: image/jpeg
 image_metadata:

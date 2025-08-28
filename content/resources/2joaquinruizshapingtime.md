@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/608325e88a1f7429ac1db8c339ebd601_2JoaquinRuizShapingTime.jpg
+file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/608325e88a1f7429ac1db8c339ebd601_2JoaquinRuizShapingTime.jpg
 file_size: 5463
 file_type: image/jpeg
 image_metadata:
