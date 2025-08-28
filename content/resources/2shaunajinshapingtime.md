@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/9d5463cb6ddadfd6a3edb1cfb76e0d9e_2ShaunaJinShapingTime.jpg
+file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/9d5463cb6ddadfd6a3edb1cfb76e0d9e_2ShaunaJinShapingTime.jpg
 file_size: 3086
 file_type: image/jpeg
 image_metadata:

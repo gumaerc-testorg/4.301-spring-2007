@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Jennifer DeBoer Made Public project "Embracing Better Learning"
-file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/a23a7c20f0225bd08ad696deac3ce83f_1deboer.jpg
+file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/a23a7c20f0225bd08ad696deac3ce83f_1deboer.jpg
 file_size: 40186
 file_type: image/jpeg
 image_metadata:

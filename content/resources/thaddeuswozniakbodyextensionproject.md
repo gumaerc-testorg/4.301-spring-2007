@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Thaddeus Wozniak Body Extension Project. '
-file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/dc5db57225498503da6aed4db80f2299_ThaddeusWozniakBodyExtensionProject.jpeg
+file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/dc5db57225498503da6aed4db80f2299_ThaddeusWozniakBodyExtensionProject.jpeg
 file_size: 59930
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lauren McCarthy Made Public Project. '
-file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/3eb4bfd3a3b316331c2230949ab917cd_LaurenMcCarthyMadePublicProject.jpeg
+file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/3eb4bfd3a3b316331c2230949ab917cd_LaurenMcCarthyMadePublicProject.jpeg
 file_size: 48973
 file_type: image/jpeg
 image_metadata:

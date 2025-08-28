@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Paul Boudreau Made Public Project.
-file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/1c7986e40c784e102424339a2aa7d9b7_PaulBoudreauMadePublicProject.jpeg
+file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/1c7986e40c784e102424339a2aa7d9b7_PaulBoudreauMadePublicProject.jpeg
 file_size: 52079
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Daniel Campos Made Public Project.
-file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/b86f988638fca30ca964c59f3ec4bae7_DanielCamposMadePublicProject.jpeg
+file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/b86f988638fca30ca964c59f3ec4bae7_DanielCamposMadePublicProject.jpeg
 file_size: 69108
 file_type: image/jpeg
 image_metadata:
