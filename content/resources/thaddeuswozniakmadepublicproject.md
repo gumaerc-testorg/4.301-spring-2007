@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Thaddeus Wozniak Made Public Project.
-file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/aed10cf881ce25b28f2ecf29ceba6a7a_ThaddeusWozniakMadePublicProject.jpeg
+file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/aed10cf881ce25b28f2ecf29ceba6a7a_ThaddeusWozniakMadePublicProject.jpeg
 file_size: 60757
 file_type: image/jpeg
 image_metadata:

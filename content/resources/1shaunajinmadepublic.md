@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/4f91d56f8cd02fa8d5d0e33ebd854f7f_1ShaunaJinMadePublic.jpg
+file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/4f91d56f8cd02fa8d5d0e33ebd854f7f_1ShaunaJinMadePublic.jpg
 file_size: 3653
 file_type: image/jpeg
 image_metadata:

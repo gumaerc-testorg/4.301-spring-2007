@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Shauna Jin Body Extension project "Untitled"
-file: /courses/4-301-introduction-to-the-visual-arts-spring-2007/ab0d271abcbbad4f5c45539039c24e83_3jin.jpg
+file: /ol-ocw-studio-app/courses/4-301-introduction-to-the-visual-arts-spring-2007/ab0d271abcbbad4f5c45539039c24e83_3jin.jpg
 file_size: 39043
 file_type: image/jpeg
 image_metadata:
