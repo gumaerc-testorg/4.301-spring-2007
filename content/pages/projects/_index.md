@@ -72,7 +72,7 @@ Daniel Campos
 
 {{< resource uuid="b2d10ebd-4fb5-d4cd-af99-95894a6a9556" >}}
 
-Video ({{% resource_link "07f19894-970e-4bd5-8f80-df9345fa0bbc" "MP4 - 2MB" %}})
+Video ([MP4 - 2MB](http://www.archive.org/download/MIT4.301F05/ocw-4.301-camposs-220k.mp4))
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -80,7 +80,7 @@ Matthew Faulkner
 
 {{< resource uuid="39cd94bc-d0ac-7dc4-31d2-22e69c4b2703" >}}
 
-Video ({{% resource_link "7fe812e1-64f3-4d8e-a87f-a88eb210ca93" "MP4 - 2MB" %}})
+Video ([MP4 - 2MB](http://www.archive.org/download/MIT4.301F05/ocw-4.301-faulkner-220k.mp4))
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -88,7 +88,7 @@ Sal Pallante
 
 {{< resource uuid="ea8d539e-2886-1fa3-6416-cfa02eb51625" >}}
 
-Video ({{% resource_link "768d38b1-79be-44d1-87d7-67c3e6a19f79" "MP4 - 3MB" %}})
+Video ([MP4 - 3MB](http://www.archive.org/download/MIT4.301F05/ocw-4.301-pallente-220k.mp4))
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -96,6 +96,6 @@ Adam Shabshelowitz
 
 {{< resource uuid="1b3f2320-51f6-5bf5-c0c4-5a048abd9d1a" >}}
 
-Video ({{% resource_link "1b502f5f-5d5a-464c-aaf5-3079781c7423" "MP4 - 3MB" %}})
+Video ([MP4 - 3MB](http://www.archive.org/download/MIT4.301F05/ocw-4.301-shabshelowitz-220k.mp4))
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
